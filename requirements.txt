@@ -1,0 +1,4 @@
+Django>=4.2
+djangorestframework
+djongo>=1.4.1
+pymongo>=4.0
